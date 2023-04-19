@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681833997 source:c:\users\mohamedsultan\documents\c_program\ convert _a _decimal_number_to_a_binary\main.c
+	<stdio.h>
+	<stdlib.h>
+
